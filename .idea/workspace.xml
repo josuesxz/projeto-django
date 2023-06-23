@@ -5,27 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b1d0f8e-c4e1-4551-9163-fd1b0ebd8cd3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/projeto-django.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/enquete/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/enquete/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/enquete/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/enquete/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/enquete/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/enquete/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/enquete/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/enquete/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/pythocrh/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/pythocrh/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/pythocrh/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/pythocrh/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythocrh/pythocrh/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meuProjeto/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meuProjeto/meuProjeto/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meuProjeto/meuProjeto/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meuProjeto/meuProjeto/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meuProjeto/meuProjeto/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meuProjeto/meuProjeto/wsgi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +23,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2QdRdoRxYrOJTj6mLqxCRdaoCMz" />
   <component name="ProjectViewState">
@@ -66,7 +55,7 @@
       <updated>1685681561854</updated>
       <workItem from="1685681563062" duration="196000" />
       <workItem from="1687526994488" duration="425000" />
-      <workItem from="1687527435164" duration="1021000" />
+      <workItem from="1687527435164" duration="5396000" />
     </task>
     <servers />
   </component>
