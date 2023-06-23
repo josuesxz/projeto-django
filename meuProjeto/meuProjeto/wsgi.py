@@ -1,5 +1,5 @@
 """
-WSGI config for pythocrh project.
+WSGI config for meuProjeto project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pythocrh.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'meuProjeto.settings')
 
 application = get_wsgi_application()
