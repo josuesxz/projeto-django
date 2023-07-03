@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b1d0f8e-c4e1-4551-9163-fd1b0ebd8cd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tela_1/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/projeto-django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projeto-django.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste_de_projeto/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste_de_projeto/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/index.html.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tela_1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tela_1/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tela_1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tela_1/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teste_de_projeto/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste_de_projeto/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -41,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -89,7 +90,8 @@
       <workItem from="1685681563062" duration="196000" />
       <workItem from="1687526994488" duration="425000" />
       <workItem from="1687527435164" duration="5776000" />
-      <workItem from="1688392312796" duration="1046000" />
+      <workItem from="1688392312796" duration="1702000" />
+      <workItem from="1688394127975" duration="2556000" />
     </task>
     <servers />
   </component>
