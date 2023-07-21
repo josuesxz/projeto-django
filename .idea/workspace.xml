@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b1d0f8e-c4e1-4551-9163-fd1b0ebd8cd3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tela_1/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tela_1/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +88,7 @@
       <workItem from="1688392312796" duration="1702000" />
       <workItem from="1688394127975" duration="2556000" />
       <workItem from="1689184379800" duration="1493000" />
+      <workItem from="1689344842188" duration="699000" />
     </task>
     <servers />
   </component>

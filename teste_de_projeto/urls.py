@@ -20,5 +20,5 @@ from tela_1.views import home  #importaçãodo pacote como biblioteca
 
 urlpatterns = [
     path('admin/', admin.site.urls), #nome da url e o local 
-    path('home/', home)
+    path('', home)
     ]
